@@ -1,0 +1,61 @@
+{
+    "books": [
+      {
+        "id": 1,
+        "title": "The Hunger Games",
+        "author": "Suzanne Collins",
+        "pages": 374,
+        "freeBookmark": true,
+        "img": "https://picsum.photos/200/300"
+      },
+      {
+        "id": 2,
+        "title": "Harry Potter and the Sorcerer's Stone",
+        "author": "J.K. Rowling",
+        "pages": 309,
+        "freeBookmark": false,
+        "img": "https://picsum.photos/200/300"
+      },
+      {
+        "id": 3,
+        "title": "Twilight",
+        "author": "Stephenie Meyer",
+        "pages": 498,
+        "freeBookmark": true,
+        "img": "https://picsum.photos/200/300"
+      },
+      {
+        "id": 4,
+        "title": "To Kill a Mockingbird",
+        "author": "Harper Lee",
+        "pages": 295,
+        "freeBookmark": true,
+        "img": "https://picsum.photos/200/300"
+      },
+      {
+        "id": 5,
+        "title": "To Kill a Mockingbird",
+        "author": "Harper Lee",
+        "pages": 295,
+        "freeBookmark": true,
+        "img": "https://picsum.photos/200/300"
+      },
+      {
+        "id": 6,
+        "title": "To Kill a Mockingbird",
+        "author": "Harper Lee",
+        "pages": 295,
+        "freeBookmark": true,
+        "img": "https://picsum.photos/200/300"
+      },
+      {
+        "id": 7,
+        "title": "The Great Gatsby",
+        "author": "F. Scott Fitzgerald",
+        "pages": 218,
+        "freeBookmark": false,
+        "img": "https://picsum.photos/200/300"
+
+      }
+    ]
+}

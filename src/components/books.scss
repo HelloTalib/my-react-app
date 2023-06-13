@@ -1,0 +1,26 @@
+.container {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+.book {
+  display: flex;
+  margin-bottom: 20px;
+}
+
+.book img {
+  width: 150px;
+  height: 200px;
+  margin-right: 20px;
+}
+
+.book h2 {
+  margin: 0;
+  font-size: 24px;
+}
+
+.book p {
+  margin: 5px 0;
+  font-size: 16px;
+}
